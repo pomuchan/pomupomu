@@ -13,7 +13,28 @@ body {
 }
 
 /*フォント*/
-/*見出し*/
+h2 {
+  color:#e8ecef;
+  text-shadow: 1px 2px 3px #7d7d7d;
+}
+h3 {
+  color:#e8ecef;
+  text-shadow: 1px 2px 3px #7d7d7d;
+}
+/*めにゅー*/
+.example {
+  margin: 10px auto;
+  width:600px;
+  background: #faebd7;
+  box-shadow: 0px 0px 0px 5px #faebd7;
+  border: dashed 2px white;
+  padding: 0.2em 0.5em;
+}
+/*メニュー文字*/
+a {color: #d2b48c}
+.text:hover{
+    color:#fffaf0;
+}
 /*ぷれいボタン*/
 .btn-circle-3d {
   display: inline-block;
@@ -39,9 +60,6 @@ body {
   border-bottom: none;
 }
 /*aタグ*/
-/*下線*/
-a {text-decoration: none}
-a {color: #fffaf0}
 
 /*吹き出し*/
 .balloon2 {
