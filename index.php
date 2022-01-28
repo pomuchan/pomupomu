@@ -1,4 +1,4 @@
-<?php ?>
+<?php?>
 <!DOCTYPE html>
 <html lang="jp">
 <head>
@@ -12,9 +12,9 @@
   <body>
     <div style="text-align:center">
       <p><br><br></p>
-      <img src="logo.png"width="1150">
+      <img src="./HP/logo.png"width="1150">
       <p><br><br></p>
-      <a href="#" class="btn-circle-3d">ぷれい</a>
+      <a href="./game/game.zip" download=game.zip class="btn-circle-3d">ぷれい</a>
       <p><br><br></p>
     </div>
 
@@ -27,19 +27,19 @@
         <a href="#five" class="text">がんばったところ<br><br></a>
       </h3>
         <br><br>
-    </div>
-
-    <div style="text-align:center">
-      <h2 id="one">しゅりんきーくえすとってなに？</h2>
-      <div class="balloon2">
-        <p>ITやコロナについてのクイズができるよ！<br>
-            何問正解できるかな？<br></p>
-        </div>
-      </div>
+  </div>
 
   <div style="text-align:center">
-      <img src="neko.png"width="150"><br><br>
-      <img src="samune.png"width="450"><br><br>
+    <h2 id="one">しゅりんきーくえすとってなに？</h2>
+    <div class="balloon2">
+      <p>ITやコロナについてのクイズができるよ！<br>
+          何問正解できるかな？<br></p>
+    </div>
+  </div>
+
+  <div style="text-align:center">
+      <img src="./HP/neko.png"width="150"><br><br>
+      <img src="./HP/samune.png"width="450"><br><br>
       <p><br><br></p>
 
       <h2 id="two">あそびかた<br><br></h2>
@@ -48,8 +48,8 @@
           <th><h3>すたーとがめん</th>
           <th><h3>ぷれいがめん</th>
         <tr align="center">
-          <td><img src="title.png"width="500"></td>
-          <td><img src="play.png"width="500"></td>
+          <td><img src="./HP/title.png"width="500"></td>
+          <td><img src="./HP/play.png"width="500"></td>
         </tr>
         <tr align="center">
           <td><h3>①まずは問題を選択してね！</h3>1キーを押すとITクイズ<br>2キーを押すとコロナクイズ<br>選んだらゲームが始まるよ！</td>
@@ -66,7 +66,7 @@
         </div>
     </div>
     <div style="text-align:center">
-      <img src="neko.png"width="150">
+      <img src="./HP/neko.png"width="150">
     <p>ヒント：もしわからないときはスペースキーで回答が見れるよ('ω')ノ<br><br></p>
 
     <h2 id="three">このげーむにしようと思ったきっかけ</h2>
@@ -94,6 +94,6 @@
   <h3>使用言語</h3><p>C言語</p>
   <h3>実行環境</h3><p>DXライブラリ</p>
   <h3>参考文献</h3><p>画像提供：いらすとや<br>BGM、効果音提供：オトロジック</p>
-  <img src="samune2.png"width="300">
+  <img src="./HP/samune2.png"width="300">
   </body>
 </html>
