@@ -1,5 +1,4 @@
-<?php?>
-<!DOCTYPE html>
+<?phpini_set('display_errors', "On");?><!DOCTYPE html>
 <html lang="jp">
 <head>
   <meta charset="UTF-8">
