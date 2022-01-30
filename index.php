@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 <?phpini_set('display_errors', "On");?>
+=======
+<?phpini_set('display_errors', "On";
+?>
+>>>>>>> 48b142d8eae0eb6554688c4b8c45f621b7588dc7
 <!DOCTYPE html>
 <html lang="jp">
 <head>
